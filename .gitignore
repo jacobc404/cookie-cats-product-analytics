@@ -1,0 +1,10 @@
+venv/
+logs/
+.DS_Store
+*.twbr
+
+cookie_cats_dbt/target/
+cookie_cats_dbt/logs/
+cookie_cats_dbt/dbt_packages/
+cookie_cats_dbt/dbt_internal_packages/
+cookie_cats_dbt/dev.duckdb
