@@ -1,5 +1,9 @@
 # Cookie Cats A/B Test Analysis
 
+## Dashboard
+
+[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/jacob.clorfene/viz/CookieCatsABTestAnalysis_17902233628060/CookieCatsABTestResults)
+
 ## Background
 
 Cookie Cats is a mobile puzzle game where players progress through levels and encounter periodic gates that can temporarily slow progression.
